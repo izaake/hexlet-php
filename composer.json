@@ -11,5 +11,10 @@
             "email": "izaak_e@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
