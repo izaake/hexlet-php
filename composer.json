@@ -1,0 +1,15 @@
+{
+    "name": "eaizaak/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Eaizaak\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ekaterina Izaak",
+            "email": "izaak_e@mail.ru"
+        }
+    ],
+    "require": {}
+}
