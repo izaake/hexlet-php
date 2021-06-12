@@ -3,7 +3,10 @@
     "autoload": {
         "psr-4": {
             "Eaizaak\\HexletPhp\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
